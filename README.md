@@ -1,3 +1,29 @@
+Packages and concepts covered:
+React router,
+redux,
+reduc-thunk,
+lazy loading,
+formik and yup for form creation and validations,
+inline stylings,
+chart.js,
+basics of bootsrap,
+axios,
+react-icons and font awesome,
+redux-devtools-extension,
+json-server
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
