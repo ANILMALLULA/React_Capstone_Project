@@ -1,0 +1,122 @@
+{
+  "products": [
+    {
+      "id": "2",
+      "productName": "Lenovo Ideapad 330ss",
+      "productManufacturer": "Lenovo",
+      "productQuantity": "3",
+      "productPrice": "21000",
+      "productDescription": "Processor: 10th Gen Intel Core i5 (i5-1035G1) | Speed: 1.0 GHz (Base) - 3.6 GHz (Max) | 4 Cores | 6MB Cache\nOS: Pre-Loaded Windows 10 Home with Lifetime Validity\nPre-Installed: MS Office Home and Student 2019\nMemory and Storage: 8GB RAM DDR4-2666 (4GB+4GB), Upgradable up to 12GB | 512GB SSD\nDisplay: 14\" Full HD (1920x1080) | Anti-Glare\nDesign: 1.99 cm Thin and 1.6 kg Light | Narrow Bezel | Battery Life: 5 Hours | Rapid Charge (Up to 80% in 1 Hour)\nCamera (Built-in): 0.3 MP withk Privacy Shutter | Fixed Focus | Integrated Dual Array Microphone",
+      "views": 69,
+      "creationDate": "Fri Jun 11 2021"
+    },
+    {
+      "productName": "INTEX 10000mAH Li-Polymer Power Ban",
+      "productDescription": "10000mAh Li-Polymer Battery,Fast Charging\n12 Months Domestic warranty\nOutput: Double USB Output 5V-2.1A\nIt will charge a 5000 mAh phone battery upto 1.5 times\nTime to Recharge - Approx 4.5 hours, Standard USB cable and many more11",
+      "productManufacturer": "Intex11",
+      "productPrice": "29911",
+      "productQuantity": "101",
+      "id": "3",
+      "views": 28,
+      "creationDate": "Fri Jun 11 2021"
+    },
+    {
+      "productName": "boAt Stone SpinX 2.0 12W Bluetooth Speakers",
+      "productDescription": "12W RMS Stereo Output\nBluetooth v4.2 with 10m range; Audio Input via AUX\nBattery Capacity of 2000mAh delivering a playback time of up to 8 hours (50% volume); Full Charge in about 3.5 hours\nIPX6 marked water & dust resistant\n1 Mic for receiving calls\nOther Inclusions: AUX Cable, Micro USB Charging Cable, Warranty Card, User Manual\n360° Stereo Sound\n1 year warranty from the date of purchase, you can activate your warranty by giving a missed call on 9223032222. Alternatively you can claim your warranty at support.boat-lifestyle.com or reach out to us at +912249461882/info@imaginemarketingindia.com",
+      "productManufacturer": "Boat",
+      "productPrice": 2000,
+      "productQuantity": 5,
+      "id": "4",
+      "views": 25,
+      "creationDate": "Fri Jan 11 2021"
+    },
+    {
+      "productName": "aa",
+      "productManufacturer": "aaa",
+      "productQuantity": "1",
+      "productPrice": "1",
+      "productDescription": "aaa",
+      "views": 2,
+      "id": "2dbe083f-bcad-4367-8123-812486ec3387",
+      "creationDate": "Fri May 11 2021"
+    },
+    {
+      "productName": "aaa",
+      "productManufacturer": "q",
+      "productQuantity": "11",
+      "productPrice": "1",
+      "productDescription": "aaaaaaaaawef",
+      "views": 3,
+      "id": "fd66c310-34a9-4805-bfbb-b3ffa94b9d0c",
+      "creationDate": "Fri Apr 11 2021"
+    },
+    {
+      "productName": "aaaa",
+      "productManufacturer": "drtgdjlg",
+      "productQuantity": "635464",
+      "productPrice": "5546",
+      "productDescription": "aaaaa",
+      "views": 3,
+      "id": "5092446f-9368-4e37-9c54-d257b07f7302",
+      "creationDate": "Fri Jun 11 2021 22:43:09 GMT+0530 (India Standard Time)"
+    }
+  ],
+  "users": [
+    {
+      "email": "mallulaanil1@gmail.com",
+      "fname": "Anil Kumar",
+      "lname": "Mallula",
+      "password": "123456",
+      "location": "MH",
+      "id": "mallulaanil1@gmail.com"
+    },
+    {
+      "email": "mallulaanil@gmail.com",
+      "fname": "Anil Kumar",
+      "lname": "Mallula",
+      "password": "123456",
+      "location": "MH",
+      "id": "mallulaanil@gmail.com"
+    },
+    {
+      "email": "mallulaanil2@gmail.com",
+      "fname": "Anil",
+      "lname": "Kumar",
+      "password": "123456",
+      "location": "A P",
+      "id": "mallulaanil2@gmail.com"
+    },
+    {
+      "email": "mallulaanil3@gmail.com",
+      "fname": "Anil",
+      "lname": "Kumar",
+      "password": "123456",
+      "location": "AP",
+      "id": "mallulaanil3@gmail.com"
+    },
+    {
+      "email": "mallulaaaaanil1@gmail.com",
+      "fname": "Anil",
+      "lname": "Kumar",
+      "password": "aaaa",
+      "location": "aaa",
+      "id": "mallulaaaaanil1@gmail.com"
+    },
+    {
+      "email": "mallulaaaaaaaanil1@gmail.com",
+      "fname": "Anil",
+      "lname": "Kumar",
+      "password": "aaaa",
+      "location": "aaa",
+      "id": "mallulaaaaaaaanil1@gmail.com"
+    },
+    {
+      "email": "mallulaanil1@gmail.comaaaa",
+      "fname": "Anil",
+      "lname": "Kumar",
+      "password": "aaaaaaaaaa",
+      "location": "aaa",
+      "id": "mallulaanil1@gmail.comaaaa"
+    }
+  ]
+}
