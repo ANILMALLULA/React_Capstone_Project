@@ -1,0 +1,2 @@
+(this.webpackJsonpfed_react_capstone_project=this.webpackJsonpfed_react_capstone_project||[]).push([[16],{272:function(t,e,c){"use strict";c.r(e);var n=c(5),s=c(21),o=c(0),r=c(30),a=c(1);e.default=function(){var t=Object(s.b)();return Object(o.useEffect)((function(){t(Object(r.c)())}),[]),Object(a.jsx)(n.b,{to:"/"})}}}]);
+//# sourceMappingURL=16.d51115b2.chunk.js.map

@@ -1,0 +1,2 @@
+(this.webpackJsonpfed_react_capstone_project=this.webpackJsonpfed_react_capstone_project||[]).push([[15],{268:function(e,t,c){"use strict";c.r(t);c(0);var s=c(5),n=c(1);t.default=function(){var e=Object(s.h)();return Object(n.jsxs)("div",{className:"text-center",children:[Object(n.jsx)("h1",{className:"text-center",style:{marginTop:"7%"},children:"Not Found"}),Object(n.jsxs)("button",{className:"btn btn-success",style:{margin:"20px"},onClick:function(){return e.push("")},children:[" ","Click here to view the website"]})]})}}}]);
+//# sourceMappingURL=15.bd688ccf.chunk.js.map
